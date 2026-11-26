@@ -25,7 +25,3 @@ Then hard-refresh SillyTavern and enable the extension in the Extensions panel.
 1. API: Chat Completion → Source: Custom (OpenAI-compatible)
 2. Endpoint: `https://api.featherless.ai/v1`
 3. Move sliders in the wand-menu panel → Apply to Connection → generate.
-
-## Known-unsupported params
-
-Add to this table as you confirm rejections at runtime.
