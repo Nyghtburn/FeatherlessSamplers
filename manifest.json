@@ -4,9 +4,9 @@
     "requires": [],
     "optional": [],
     "js": "index.js",
-    "author": "you",
+    "author": "Esher, Ravenholme Technologies Inc.",
+    "homePage": "https://github.com/Nyghtburn/FeatherlessSamplers",
     "version": "1.0.0",
-    "homePage": "",
     "hooks": {
         "activate": "init"
     }
